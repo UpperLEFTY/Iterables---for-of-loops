@@ -55,5 +55,8 @@ for (let entry of colors.entries()) {
 }
 
 for (let entry of tracking.entries()) {
+    console.log(entry);
+}
+
     
 
