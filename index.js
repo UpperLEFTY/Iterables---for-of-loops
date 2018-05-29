@@ -58,5 +58,8 @@ for (let entry of tracking.entries()) {
     console.log(entry);
 }
 
+for (let entry of data.entries()) {
+    console.log(entry);
+}
     
 
