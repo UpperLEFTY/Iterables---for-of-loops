@@ -34,3 +34,5 @@ for (let num of values) {
     collection.items.push(3);
 
     for (let x of collection) {
+        console.log(x);
+    }
