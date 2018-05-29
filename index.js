@@ -53,3 +53,7 @@ data.set("format", "ebook");
 for (let entry of colors.entries()) {
     console.log(entry);
 }
+
+for (let entry of tracking.entries()) {
+    
+
