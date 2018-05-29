@@ -25,4 +25,9 @@ for (let num of values) {
           *[Symbol.iterator]() {
               for (let item of this.items)  {
                     yield item;
-                   
+             }
+         }
+    };
+
+    collection.items.push(1);
+     colection.items.push(2);
