@@ -31,4 +31,6 @@ for (let num of values) {
 
     collection.items.push(1);
     collection.items.push(2);
-    collection.
+    collection.items.push(3);
+
+    for (let x of collection) {
