@@ -30,4 +30,5 @@ for (let num of values) {
     };
 
     collection.items.push(1);
-     colection.items.push(2);
+    collection.items.push(2);
+    collection.
