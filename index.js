@@ -61,5 +61,8 @@ for (let entry of tracking.entries()) {
 for (let entry of data.entries()) {
     console.log(entry);
 }
-    
+ 
+// Console.log() calls to produce output
+
+
 
